@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW5</string>
+    <string name="search">Search</string>
+    <string name="go">GO</string>
+    <string name="overview">Overview:</string>
+    <string name="trailer">Play Trailer</string>
+    <string name="games">Similar Games</string>
+    <string name="finish">Finish</string>
+</resources>
